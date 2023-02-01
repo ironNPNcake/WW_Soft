@@ -12,6 +12,7 @@ namespace DataCollector.Controllers
         {
             return View();
         }
+        //papapapapalalalala
 
         public ActionResult About()
         {
